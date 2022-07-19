@@ -18,6 +18,8 @@
 		AD2D6E3128861127004127D2 /* ToDoListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2D6E3028861127004127D2 /* ToDoListUITestsLaunchTests.swift */; };
 		AD2D6E4028861A03004127D2 /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2D6E3F28861A03004127D2 /* ToDoTableViewController.swift */; };
 		AD2D6E4228861B10004127D2 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2D6E4128861B10004127D2 /* ToDo.swift */; };
+		AD2D6E4428862A4E004127D2 /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2D6E4328862A4D004127D2 /* AddToDoViewController.swift */; };
+		AD2D6E4628862F48004127D2 /* CompleteToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD2D6E4528862F48004127D2 /* CompleteToDoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		AD2D6E3028861127004127D2 /* ToDoListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		AD2D6E3F28861A03004127D2 /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
 		AD2D6E4128861B10004127D2 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
+		AD2D6E4328862A4D004127D2 /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
+		AD2D6E4528862F48004127D2 /* CompleteToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteToDoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +116,8 @@
 				AD2D6E1328861125004127D2 /* ToDoList.xcdatamodeld */,
 				AD2D6E3F28861A03004127D2 /* ToDoTableViewController.swift */,
 				AD2D6E4128861B10004127D2 /* ToDo.swift */,
+				AD2D6E4328862A4D004127D2 /* AddToDoViewController.swift */,
+				AD2D6E4528862F48004127D2 /* CompleteToDoViewController.swift */,
 			);
 			path = ToDoList;
 			sourceTree = "<group>";
@@ -267,7 +273,9 @@
 				AD2D6E0B28861125004127D2 /* AppDelegate.swift in Sources */,
 				AD2D6E4228861B10004127D2 /* ToDo.swift in Sources */,
 				AD2D6E4028861A03004127D2 /* ToDoTableViewController.swift in Sources */,
+				AD2D6E4628862F48004127D2 /* CompleteToDoViewController.swift in Sources */,
 				AD2D6E0D28861125004127D2 /* SceneDelegate.swift in Sources */,
+				AD2D6E4428862A4E004127D2 /* AddToDoViewController.swift in Sources */,
 				AD2D6E1528861125004127D2 /* ToDoList.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
